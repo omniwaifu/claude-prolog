@@ -1,0 +1,24 @@
+BANK LOAN DECISION SCENARIO
+
+John Smith has applied for a $250,000 mortgage loan. Here are his details:
+
+APPLICANT DATA:
+- Name: John Smith  
+- Age: 35 years old
+- Annual Income: $75,000
+- Credit Score: 720
+- Employment: Permanent position, 5 years with current employer
+- Current Debt-to-Income Ratio: 25% (0.25)
+- Loan Amount Requested: $250,000
+- Loan Purpose: Mortgage (home purchase)
+- Assets: Property worth $300,000, $50,000 in savings, $25,000 in investments
+- Credit History: 1 late payment in past 2 years, no bankruptcies, no defaults
+
+QUESTION: Should we approve John Smith's mortgage application? 
+
+ANALYSIS NEEDED:
+- What is his risk category?
+- What interest rate premium should he receive?
+- Does he qualify for automatic approval, standard approval, conditional approval, or rejection?
+
+Please evaluate this application using our bank's established approval criteria. 
